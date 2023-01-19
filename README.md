@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanoHTB&show_icons=true&theme=radical)
 # About Me :electron:	
-I am 20 years old and one of my favorite things in the entire world is coding.
+Software Architecture!!
 
 I just think that software architecture is such a great way of expressing art plus it's a hobby you will be devoted your entire life.
 
