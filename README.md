@@ -4,9 +4,9 @@
 # About Me :electron:	
 Software Architecture!!
 
-I just think that software architecture is such a great way of expressing art plus it's a hobby you will be devoted your entire life.
+Expressing creativity over code 🆘.
 
-In my opinion? That's mind-blowing.
+No other comments? That's mind-blowing.
 # Links :calling:	
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
