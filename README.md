@@ -1,6 +1,5 @@
 # Hi there, Nice to meet you! :facepunch:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanoHTB&show_icons=true&theme=radical)
 # About Me :electron:	
 Software Architecture!!
 
