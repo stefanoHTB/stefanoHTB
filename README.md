@@ -2,7 +2,7 @@
 
 **`Digital Picasso (Engineer/Creator/Writer)`**
 
-I am a seasoned professional in the tech industry, adept at full-stack development and content creation with a meticulous approach to problem-solving. My expertise lies in architecting robust solutions and crafting compelling content that resonates with audiences. You can find my work showcased on my YouTube channel "[stephanodev][youtube]," where I share insights and innovations with a global audience. Let's connect and explore the possibilities of technology together.
+I am a seasoned professional in the tech industry, adept at full-stack development and content creation with a meticulous approach to problem-solving. My expertise lies in architecting robust solutions and crafting compelling content that resonates with audiences. You can find my work showcased on my YouTube channel "@stephanodev" where I share insights and innovations with a global audience. Let's connect and explore the possibilities of technology together.
 
    <p align="left">
       <a href="https://www.youtube.com/stephanodev?sub_confirmation=1">
