@@ -1,12 +1,8 @@
-# Hi there, Nice to meet you! :facepunch:
+# Di Stephano :facepunch:
 
-# About Me :electron:	
-Software Architecture!!
+**`Digital Picasso (Engineer/Creator/Writer)`**
 
-Expressing creativity over code 🆘.
-
-No other comments? That's mind-blowing.
-# Links :calling:	
+I am a seasoned professional in the tech industry, adept at full-stack development and content creation with a meticulous approach to problem-solving. My expertise lies in architecting robust solutions and crafting compelling content that resonates with audiences. You can find my work showcased on my YouTube channel "[stephanodev][youtube]," where I share insights and innovations with a global audience. Let's connect and explore the possibilities of technology together.
 
    <p align="left">
       <a href="https://www.youtube.com/stephanodev?sub_confirmation=1">
