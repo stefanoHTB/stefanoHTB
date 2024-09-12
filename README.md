@@ -1,4 +1,4 @@
-# Di Stephano :facepunch:
+# Steph :facepunch:
 
 **`Digital Picasso (Engineer/Artist/Writer)`**
 
